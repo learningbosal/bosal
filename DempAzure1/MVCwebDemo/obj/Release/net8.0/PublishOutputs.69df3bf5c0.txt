@@ -1,0 +1,7 @@
+C:\Users\sateesh.bathula\Documents\VSCode\Azure\DempAzure1\MVCwebDemo\publish\MVCwebDemo.exe
+C:\Users\sateesh.bathula\Documents\VSCode\Azure\DempAzure1\MVCwebDemo\publish\appsettings.Development.json
+C:\Users\sateesh.bathula\Documents\VSCode\Azure\DempAzure1\MVCwebDemo\publish\appsettings.json
+C:\Users\sateesh.bathula\Documents\VSCode\Azure\DempAzure1\MVCwebDemo\publish\MVCwebDemo.dll
+C:\Users\sateesh.bathula\Documents\VSCode\Azure\DempAzure1\MVCwebDemo\publish\MVCwebDemo.deps.json
+C:\Users\sateesh.bathula\Documents\VSCode\Azure\DempAzure1\MVCwebDemo\publish\MVCwebDemo.runtimeconfig.json
+C:\Users\sateesh.bathula\Documents\VSCode\Azure\DempAzure1\MVCwebDemo\publish\MVCwebDemo.pdb

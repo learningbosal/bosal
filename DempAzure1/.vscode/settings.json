@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "MVCwebDemo.sln",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b41235b4-5bbf-4c6b-924e-669e67bb8496/resourceGroups/RGbosal/providers/Microsoft.Web/sites/learningbosal",
+    "appService.deploySubpath": "MVCwebDemo\\bin\\publish"
+}
